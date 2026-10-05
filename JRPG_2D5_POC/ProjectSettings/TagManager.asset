@@ -41,6 +41,30 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1847263901
+    locked: 0
+  - name: Midground
+    uniqueID: 1847263902
+    locked: 0
+  - name: Terrain
+    uniqueID: 1847263903
+    locked: 0
+  - name: Props_Back
+    uniqueID: 1847263904
+    locked: 0
+  - name: Player
+    uniqueID: 1847263905
+    locked: 0
+  - name: Props_Front
+    uniqueID: 1847263906
+    locked: 0
+  - name: Foreground
+    uniqueID: 1847263907
+    locked: 0
+  - name: UI
+    uniqueID: 1847263908
+    locked: 0
   m_RenderingLayers:
   - Default
   - Light Layer 1
